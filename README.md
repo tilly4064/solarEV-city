@@ -4,7 +4,7 @@ A visual communication tool for exploring Australia’s postcode-level solar, EV
 
 SolarEV Cities layers postcode-level datasets onto one interactive map — EV registrations, rooftop PV installations, PV capacity, battery installations, battery capacity, SolarEV readiness, missing-link typologies, and Australia’s top 50 cities. By making these datasets visible together, it helps researchers, planners, policymakers, and the public understand where the ingredients for SolarEV Cities are already emerging, where gaps remain, and why V2H/V2G integration matters.
 
-Live map: **ADD YOUR GITHUB PAGES LINK HERE**
+Live map: https://tilly4064.github.io/solarEV-city/
 
 Best viewed on desktop. Mobile is functional but cramped because the map includes a sidebar, popups, legends, and story panels.
 
